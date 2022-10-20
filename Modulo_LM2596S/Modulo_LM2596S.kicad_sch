@@ -975,7 +975,7 @@
     (property "Value" "10k" (id 1) (at 162.56 78.7399 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 160.02 77.47 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3299W_Vertical" (id 2) (at 160.02 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 160.02 77.47 0)
@@ -1075,7 +1075,7 @@
       (reference "R102") (unit 1) (value "1k") (footprint "")
     )
     (path "/db17a703-a37d-4b79-9726-63333a30eb05"
-      (reference "RV101") (unit 1) (value "10k") (footprint "")
+      (reference "RV101") (unit 1) (value "10k") (footprint "Potentiometer_THT:Potentiometer_Bourns_3299W_Vertical")
     )
     (path "/329e714d-77d1-42d4-b688-ff586e973cc8"
       (reference "U101") (unit 1) (value "LM2596S-ADJ") (footprint "Package_TO_SOT_SMD:TO-263-5_TabPin3")
