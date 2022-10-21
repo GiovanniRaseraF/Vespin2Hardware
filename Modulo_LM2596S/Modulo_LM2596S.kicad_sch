@@ -675,6 +675,12 @@
     (uuid fcaf7403-c631-450e-9aea-fac83c3ffc83)
   )
 
+  (text "TODO: Non serve il potenziometro RV101 non serve, dobbiamo \ndecidere un valore che dia sempre 5V o 3.3V in output \n\nPer la versione che stiamo facendo ora va benissimo così"
+    (at 20.32 46.99 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2c7bba08-13bf-4d70-911a-5855e02c51f1)
+  )
+
   (global_label "OUT+" (shape input) (at 193.04 73.66 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1c000b49-ae3e-4ec4-9010-c203702bcaba)
