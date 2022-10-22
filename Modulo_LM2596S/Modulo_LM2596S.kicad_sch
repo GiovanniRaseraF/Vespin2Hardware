@@ -785,7 +785,7 @@
     (property "Value" "100uF" (id 1) (at 76.2 81.9149 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 72.39 81.28 0)
+    (property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3" (id 2) (at 72.39 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 72.39 81.28 0)
@@ -820,7 +820,7 @@
     (property "Value" "330" (id 1) (at 162.56 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 158.242 86.36 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 158.242 86.36 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 160.02 86.36 0)
@@ -839,7 +839,7 @@
     (property "Value" "1uF" (id 1) (at 90.17 82.5499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 87.3252 85.09 0)
+    (property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder" (id 2) (at 87.3252 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 86.36 81.28 0)
@@ -1054,10 +1054,10 @@
       (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
     )
     (path "/36af99ba-44f3-4caf-a2f7-2f75678a02fb"
-      (reference "C101") (unit 1) (value "100uF") (footprint "")
+      (reference "C101") (unit 1) (value "100uF") (footprint "Capacitor_SMD:CP_Elec_3x5.3")
     )
     (path "/689c4dca-aa7d-493b-824b-0f528cf7fb1d"
-      (reference "C102") (unit 1) (value "1uF") (footprint "")
+      (reference "C102") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder")
     )
     (path "/93b82181-0c21-4647-a6a8-8a9a0831c12f"
       (reference "C103") (unit 1) (value "220uF") (footprint "")
@@ -1075,7 +1075,7 @@
       (reference "L101") (unit 1) (value "47uH") (footprint "")
     )
     (path "/664bdff7-aac1-4a8f-b1b1-4cc25c686d35"
-      (reference "R101") (unit 1) (value "330") (footprint "")
+      (reference "R101") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/8d177f27-30dc-4386-8473-ae66aa314cc6"
       (reference "R102") (unit 1) (value "1k") (footprint "")
