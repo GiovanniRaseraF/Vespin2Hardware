@@ -854,7 +854,7 @@
     (uuid 6d551d3c-151e-4aa5-b2c4-444cfcec29b2)
     (property "Reference" "L101" (id 0) (at 135.89 71.12 0))
     (property "Value" "47uH" (id 1) (at 135.89 73.66 0))
-    (property "Footprint" "" (id 2) (at 135.89 77.47 0)
+    (property "Footprint" "Inductor_SMD:L_Bourns-SRU8028_8.0x8.0mm" (id 2) (at 135.89 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 135.89 77.47 0)
@@ -927,7 +927,7 @@
     (property "Value" "1k" (id 1) (at 184.15 80.0099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 179.832 78.74 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 179.832 78.74 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 181.61 78.74 0)
@@ -1072,13 +1072,13 @@
       (reference "D102") (unit 1) (value "LED") (footprint "")
     )
     (path "/6d551d3c-151e-4aa5-b2c4-444cfcec29b2"
-      (reference "L101") (unit 1) (value "47uH") (footprint "")
+      (reference "L101") (unit 1) (value "47uH") (footprint "Inductor_SMD:L_Bourns-SRU8028_8.0x8.0mm")
     )
     (path "/664bdff7-aac1-4a8f-b1b1-4cc25c686d35"
       (reference "R101") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/8d177f27-30dc-4386-8473-ae66aa314cc6"
-      (reference "R102") (unit 1) (value "1k") (footprint "")
+      (reference "R102") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/db17a703-a37d-4b79-9726-63333a30eb05"
       (reference "RV101") (unit 1) (value "10k") (footprint "Potentiometer_THT:Potentiometer_Bourns_3299W_Vertical")
