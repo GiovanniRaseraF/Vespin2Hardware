@@ -1,7 +1,7 @@
 # Vespin2Hardward
 ## Modulo LM2596S
 ### Autors
-- Cristofoli Nicols : Schematics
+- Cristofoli Nicola : Schematics
 - Rasera Giovanni : PCB layout
 
 
