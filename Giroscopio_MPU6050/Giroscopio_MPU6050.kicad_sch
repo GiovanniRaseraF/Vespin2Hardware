@@ -382,10 +382,10 @@
   )
 
   (symbol (lib_id "Device:R") (at 110.49 78.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 55873c7a-b6a3-4c95-8d35-5ea9c6f0e1e7)
-    (property "Reference" "4.7k402" (id 0) (at 110.49 72.39 90))
-    (property "Value" "R" (id 1) (at 110.49 74.93 90))
+    (property "Reference" "4.7k402" (id 0) (at 110.49 82.55 90))
+    (property "Value" "R" (id 1) (at 110.49 85.09 90))
     (property "Footprint" "" (id 2) (at 110.49 80.518 90)
       (effects (font (size 1.27 1.27)) hide)
     )
