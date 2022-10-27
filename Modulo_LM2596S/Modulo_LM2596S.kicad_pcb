@@ -890,7 +890,7 @@
       (net 3 "OUT-") (pinfunction "A") (pintype "passive") (tstamp 8bcb9b0e-5321-4524-bdef-aa8ecf19c981))
     (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (scale (xyz 1.5 1 1))
       (rotate (xyz 0 0 0))
     )
   )
