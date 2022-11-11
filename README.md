@@ -1,4 +1,4 @@
-# Vespin2Hardward
+# Hardware
 ## Modulo LM2596S
 ### Autors
 - Cristofoli Nicola : Schematics
