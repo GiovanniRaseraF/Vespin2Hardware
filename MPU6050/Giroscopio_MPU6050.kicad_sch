@@ -579,7 +579,7 @@
     (property "Value" "Conn_01x01_Female" (id 1) (at 50.165 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "TestPoint:TestPoint_Keystone_5019_Minature" (id 2) (at 49.53 80.01 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (id 2) (at 49.53 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 49.53 80.01 0)
@@ -595,7 +595,7 @@
     (property "Value" "Conn_01x01_Female" (id 1) (at 50.165 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "TestPoint:TestPoint_Keystone_5019_Minature" (id 2) (at 49.53 76.2 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (id 2) (at 49.53 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 49.53 76.2 0)
@@ -833,10 +833,10 @@
       (reference "C404") (unit 1) (value "0.01uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/58845f6a-f12f-48d6-acaf-4586b4a9bbc5"
-      (reference "J401") (unit 1) (value "Conn_01x01_Female") (footprint "TestPoint:TestPoint_Keystone_5019_Minature")
+      (reference "J401") (unit 1) (value "Conn_01x01_Female") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/55a46a37-a89c-4e10-9eef-3e9e38a127fb"
-      (reference "J402") (unit 1) (value "Conn_01x01_Female") (footprint "TestPoint:TestPoint_Keystone_5019_Minature")
+      (reference "J402") (unit 1) (value "Conn_01x01_Female") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/4a776592-badf-4679-907a-201ed16a7491"
       (reference "R401") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric")
