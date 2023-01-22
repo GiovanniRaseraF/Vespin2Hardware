@@ -772,6 +772,9 @@
   (gr_arc (start 165.325 54.760551) (mid 166.339322 55.184663) (end 166.749873 56.204549) (layer "Edge.Cuts") (width 0.1) (tstamp bbfd4508-9446-4077-9f45-ac3ac9f86212))
   (gr_arc (start 116.175888 56.199873) (mid 116.6 55.185551) (end 117.619886 54.775) (layer "Edge.Cuts") (width 0.1) (tstamp e5ae33b6-2eed-4b8e-966d-4e1622bc1ec4))
   (gr_line (start 166.743998 81.425127) (end 166.749873 56.204549) (layer "Edge.Cuts") (width 0.1) (tstamp f70ff3db-5dad-4e69-8d1e-2860f42b4cac))
+  (gr_text "Regolatore di tensione da 5 a 9 volt." (at 143.575 63.375) (layer "B.SilkS") (tstamp a5bbfe90-90fc-414e-8db5-c56cf808e16c)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
 
   (segment (start 149.875 79.2) (end 148.7 78.025) (width 0.8) (layer "B.Cu") (net 1) (tstamp 1917ea29-c7ca-478d-8fe0-3ba2790cdcf8))
   (segment (start 135.646418 80.281418) (end 146.443582 80.281418) (width 0.8) (layer "B.Cu") (net 1) (tstamp 259bd9f6-8f7a-4aa3-911e-4a5f4bde794a))
