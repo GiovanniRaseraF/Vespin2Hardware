@@ -105,7 +105,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical" (layer "F.Cu")
     (tstamp 04f4b2b6-377d-4fb0-b662-fb05ed6598c7)
-    (at 201.676 75.946)
+    (at 154.21 62.36)
     (descr "TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf")
     (tags "TO-220-15 Vertical RM 1.27mm staggered type-1")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -247,7 +247,7 @@
 
   (footprint "Capacitor_THT:CP_Radial_D13.0mm_P5.00mm" (layer "F.Cu")
     (tstamp 1675ffdb-1771-4db8-ac83-49aaee84f100)
-    (at 227.808785 78.486)
+    (at 136.652 74.46)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=13mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 13mm Electrolytic Capacitor")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -771,7 +771,7 @@
 
   (footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp 18546df2-0f6a-402e-83ca-a14dff6307f0)
-    (at 240.538 116.046)
+    (at 157.734 115.1)
     (descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
     (tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -857,7 +857,7 @@
 
   (footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp 277a826c-d234-477a-8ca2-7809c807daef)
-    (at 240.538 122.936)
+    (at 157.734 121.99)
     (descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
     (tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -943,7 +943,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp 371c1556-55fb-42f3-bc20-e654a82cad45)
-    (at 223.266 105.156 -90)
+    (at 138.938 103.448 -90)
     (descr "Resistor, Axial_DIN0414 series, Axial, Horizontal, pin pitch=15.24mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
     (tags "Resistor Axial_DIN0414 series Axial Horizontal pin pitch 15.24mm 2W length 11.9mm diameter 4.5mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1009,7 +1009,7 @@
 
   (footprint "Capacitor_THT:C_Rect_L7.5mm_W6.5mm_P5.00mm" (layer "F.Cu")
     (tstamp 44ca3118-5ac0-4ac9-bcaa-c84e09ccd15e)
-    (at 202.184 84.328)
+    (at 124.246 74.46)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.5*6.5mm^2, Capacitor")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.5mm width 6.5mm Capacitor")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1067,7 +1067,7 @@
 
   (footprint "Capacitor_THT:C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3" (layer "F.Cu")
     (tstamp 52b80bd8-c1ad-469a-9974-2fcaac50d5a7)
-    (at 195.834 88.586 90)
+    (at 117.896 78.718 90)
     (descr "C, Rect series, Radial, pin pitch=7.50mm, , length*width=10*3mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf")
     (tags "C Rect series Radial pin pitch 7.50mm  length 10mm width 3mm Capacitor")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1125,7 +1125,7 @@
 
   (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 610803bd-16d0-488f-8a40-3efa5137948f)
-    (at 250.444 56.642 180)
+    (at 143.205 57.515 180)
     (descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
     (tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm^2 drill 1.3mm pad 2.6mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1233,7 +1233,7 @@
 
   (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal" (layer "F.Cu")
     (tstamp 6fd60ede-56e3-480d-9fd9-a74779edcbe9)
-    (at 232.062 142.748)
+    (at 136.518 128.137)
     (descr "Terminal Block Phoenix MKDS-1,5-4, 4 pins, pitch 5mm, size 20x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
     (tags "THT Terminal Block Phoenix MKDS-1,5-4 pitch 5mm size 20x9.8mm^2 drill 1.3mm pad 2.6mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1377,7 +1377,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0922_L20.0mm_D9.0mm_P25.40mm_Horizontal" (layer "F.Cu")
     (tstamp 703a1c73-2c54-4bc0-b09d-d350c10b8b7d)
-    (at 238.76 93.726 180)
+    (at 152.908 90.424 180)
     (descr "Resistor, Axial_DIN0922 series, Axial, Horizontal, pin pitch=25.4mm, 5W, length*diameter=20*9mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
     (tags "Resistor Axial_DIN0922 series Axial Horizontal pin pitch 25.4mm 5W length 20mm diameter 9mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1443,7 +1443,7 @@
 
   (footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp 71b6abe2-440d-4f69-8c3a-1c1bfe69c796)
-    (at 240.538 102.266)
+    (at 157.734 101.32)
     (descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
     (tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1529,7 +1529,7 @@
 
   (footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp 8775218d-2ad6-42d1-bf3e-902e3d5761bd)
-    (at 197.358 123.19)
+    (at 115.51 121.92)
     (descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
     (tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1615,7 +1615,7 @@
 
   (footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp 900c1f48-5a81-4bd6-92c0-e2e0adb6551c)
-    (at 197.358 102.52)
+    (at 115.51 101.25)
     (descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
     (tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1701,7 +1701,7 @@
 
   (footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp 9d3d7c20-c375-4315-9a0a-7c00c542aef5)
-    (at 240.538 109.156)
+    (at 157.734 108.21)
     (descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
     (tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1787,7 +1787,7 @@
 
   (footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp ac274f1a-ebd7-4227-a875-268541c4a5d8)
-    (at 197.358 116.3)
+    (at 115.51 115.03)
     (descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
     (tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1873,7 +1873,7 @@
 
   (footprint "Package_DIP:DIP-20_W7.62mm_LongPads" (layer "F.Cu")
     (tstamp b8a479cb-a00a-48e5-9d84-dd8f912328b0)
-    (at 251.714 92.202 180)
+    (at 168.91 93.51 180)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -1973,7 +1973,7 @@
 
   (footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp bf6dbd14-30a1-4c08-a318-7a87f35f39a0)
-    (at 197.358 109.41)
+    (at 115.51 108.14)
     (descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
     (tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -2059,7 +2059,7 @@
 
   (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp d637691c-12bb-43d9-8ed7-6fae26329cb6)
-    (at 233.172 56.896 180)
+    (at 126.035 57.585 180)
     (descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
     (tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm^2 drill 1.3mm pad 2.6mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -2167,7 +2167,7 @@
 
   (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-12_1x12_P5.00mm_Horizontal" (layer "F.Cu")
     (tstamp e09f9815-c041-41d6-ae4f-8ea35686109e)
-    (at 270.256 130.344 90)
+    (at 181.44 115.42 90)
     (descr "Terminal Block Phoenix MKDS-1,5-12, 12 pins, pitch 5mm, size 60x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
     (tags "THT Terminal Block Phoenix MKDS-1,5-12 pitch 5mm size 60x9.8mm^2 drill 1.3mm pad 2.6mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -2455,7 +2455,7 @@
 
   (footprint "Capacitor_THT:C_Rect_L7.5mm_W6.5mm_P5.00mm" (layer "F.Cu")
     (tstamp e8a0c223-a0b7-405b-805d-e189851e5d2b)
-    (at 234.736 67.818)
+    (at 150.408 74.206)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.5*6.5mm^2, Capacitor")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.5mm width 6.5mm Capacitor")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -2513,7 +2513,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal" (layer "F.Cu")
     (tstamp e989fb76-9f3b-4e3e-b371-2a67f4475e18)
-    (at 233.426 105.156 -90)
+    (at 149.098 103.448 -90)
     (descr "Resistor, Axial_DIN0414 series, Axial, Horizontal, pin pitch=15.24mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
     (tags "Resistor Axial_DIN0414 series Axial Horizontal pin pitch 15.24mm 2W length 11.9mm diameter 4.5mm")
     (property "Sheetfile" "Two_phese_bipolar_stepper_motor.kicad_sch")
@@ -2576,5 +2576,22 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_arc (start 113.029957 55.410043) (mid 113.93501 53.225053) (end 116.12 52.32)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 08adbf7f-eca9-4103-971b-118d8f84bceb))
+  (gr_line (start 116.120043 133.350043) (end 183.6 133.350043)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 3e812078-7b9c-4a57-9106-b03434245270))
+  (gr_arc (start 183.599957 52.32) (mid 185.784947 53.225053) (end 186.69 55.410043)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 60f4a276-a6c9-4c1e-b0c3-bf8bf9e15a2f))
+  (gr_line (start 116.12 52.32) (end 183.599957 52.32)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 685462ae-ed66-46c5-8fb4-fa443b41c1b0))
+  (gr_line (start 186.690043 130.259957) (end 186.690043 55.410043)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 6df9a6e2-624e-47b3-9390-2752844a5959))
+  (gr_arc (start 116.120043 133.350043) (mid 113.935053 132.44499) (end 113.03 130.26)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 92229fa7-bb91-4ac7-a65a-6b9283ccc3ea))
+  (gr_arc (start 186.690043 130.259957) (mid 185.78499 132.444947) (end 183.6 133.35)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 9aa93cc4-149b-475f-bb51-acc97e6a53a3))
+  (gr_line (start 113.029957 55.410043) (end 113.029957 130.26)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp c9e7e2ae-f3ff-47a6-9729-8e252f96bb2d))
 
 )
