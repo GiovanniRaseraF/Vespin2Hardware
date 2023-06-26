@@ -1,0 +1,13 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical";1;"L298N";;;
+2;"C4";"CP_Radial_D13.0mm_P5.00mm";1;"470uF";;;
+3;"D3,D4,D1,D8,D5,D2,D7,D6";"D_DO-27_P15.24mm_Horizontal";8;" ";;;
+4;"Rs2";"R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal";1;"0.5 ohm";;;
+5;"C3,C2";"C_Rect_L7.5mm_W6.5mm_P5.00mm";2;"100nF";;;
+6;"C1";"C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3";1;"3.3nF";;;
+7;"J1,J2";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";2;"Screw_Terminal_01x02";;;
+8;"J4";"TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal";1;"Screw_Terminal_01x04";;;
+9;"R1";"R_Axial_DIN0922_L20.0mm_D9.0mm_P25.40mm_Horizontal";1;"22k";;;
+10;"U1";"DIP-20_W7.62mm_LongPads";1;"L297";;;
+11;"J3";"TerminalBlock_Phoenix_MKDS-1,5-12_1x12_P5.00mm_Horizontal";1;"Screw_Terminal_01x12";;;
+12;"Rs1";"R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal";1;"0.5ohm";;;
